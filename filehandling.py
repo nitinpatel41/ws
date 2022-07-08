@@ -27,3 +27,6 @@ shoplist = ['apple', 'mango', 'carrot']
 f = open(shoplistfile, 'wb')
 pickle.dump(shoplist, f)
 f.close()
+
+
+print(9)
