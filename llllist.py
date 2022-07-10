@@ -18,5 +18,5 @@ print('My shopping list is now', shoplist)
 
 
 x = [0, 5 , 9 , 8 , 2 , 3]
-
+print("Hello Nitin")
 print(x[1:])
