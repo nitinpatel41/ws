@@ -15,25 +15,3 @@ olditem = shoplist[0]
 del shoplist[0]
 print('I bought the', olditem)
 print('My shopping list is now', shoplist)
-
-
-x = [0, 5 , 9 , 8 , 2 , 3]
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-print(x[1:])
-print(x[2::2])
-=======
-print("Hello Nitin")
-print(x[1:])
->>>>>>> 378c475c56cca21585684f94b17f304b3023ab5e
-=======
-print("Hello Nitin")
-print(x[1:])
->>>>>>> 378c475c56cca21585684f94b17f304b3023ab5e
-=======
-print(x[1:])
-print(x[2::2])
-
-
->>>>>>> nitin
